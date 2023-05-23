@@ -12,8 +12,12 @@ in it.
   - `cnn_train_evaluate.ipynb` xcontains all code for training, defining the model, evaluating accuracy and loss, and graphing results. This file contains some code for CNN implmentation that is sourced inline but can also be found [here.](https://coderzcolumn.com/tutorials/artificial-intelligence/pytorch-conv1d-for-text-classification) 718 lines of code.
 
 `k_means.ipynb` - implements K-means clustering. 547 lines of code.
+
 `knn.ipynb` - implements K-nearest neighbor code. 650 lines of code.
+
 `logistic.ipynb` - implements Logistic Regression model suing BoW. 793 lines of code.
+
 `logistic_regression_v2.ipynb` - implements Logistic Regression using CBoW. 611 lines of code.
+
 `lstm_model.ipynb` - implements LSTM model. 
 
