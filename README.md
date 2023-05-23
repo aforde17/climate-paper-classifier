@@ -1,10 +1,10 @@
 # climate-paper-classifier
 
-`data_pull` code to download data from OSTI api.
+`data_pull` contains code to download data from OSTI api.
 
-`exploratory` code for exploratory data analysis.
+`exploratory` contains code for exploratory data analysis.
 
-`models` code for our main models.
+`models` contains code for our main models.
 
 `clean_data.ipynb` code to clean data pulled from OSTI.
 
