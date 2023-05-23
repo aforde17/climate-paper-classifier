@@ -2,10 +2,7 @@ Briefly describe the purpose of each file and the number of lines of code
 in it.
 
 `bert` - folder that contains all code for the BERT model
-  - `bert_implementation.ipynb` 672 lines of code.
-  - `bert_implementation_V2.ipynb` 2189 lines of code.
-  - `bert_implementation_V3.ipynb` 713 lines of code.
-  - `bert_implementation_V4.ipynb` 887 lines of code.
+  - `bert_implementation_V4.ipynb` 907 lines of code. Contains final 
 
 `cnn` - folder that contains code for the CNN model.
   - `processing.py` contains processing class. 120 lines of code. 
