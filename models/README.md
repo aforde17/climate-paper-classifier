@@ -19,3 +19,4 @@ in it.
 
 `lstm_model.ipynb` - implements LSTM model. 
 
+`model-comparison.xlsx` - generates charts comparing the per-category F1 score and accuracy.  contains 3 tabs, no code.
